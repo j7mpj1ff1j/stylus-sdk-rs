@@ -160,3 +160,4 @@ fn test_mock_calls() {
 
 A TestVM is a simple struct implemented in the stylus-test crate that implements the `Host` trait from [stylus_core::host::Host](https://docs.rs/stylus-core/latest/stylus_core/host/trait.Host.html). Anyone can implement the trait and allow for rich testing experiences
 for Stylus contracts. The TestVM is not the only way to unit test your projects, as you can extend or implement your own.
+<!-- Auto-update: 2025-10-17T13:19:48.469384 -->
